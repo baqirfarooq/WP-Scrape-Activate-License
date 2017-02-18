@@ -1,0 +1,1 @@
+# WP-Scrape-Activate-License
