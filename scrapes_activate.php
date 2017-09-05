@@ -18,7 +18,7 @@ add_action("admin_menu", "add_theme_menu_item");
 function scrape_activate_register_settings() { 
     //Declare all options and if applicable, the default information
     add_option( 'scrapes_valid', 1);
-    add_option( 'scrapes_domain', 'http://freethemelock.com'); 
+    add_option( 'scrapes_domain', 'http://www.abc.com'); 
     add_option( 'scrapes_code', '726c917c-9874-4b26-9075-d0a28a7a7895'); 
     add_option( 'scrape_user_agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36');
  
